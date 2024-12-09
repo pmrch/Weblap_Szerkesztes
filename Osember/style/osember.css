@@ -1,0 +1,19 @@
+body
+{
+    background-color: #ffe4b5;
+    color: #000080;
+    
+}
+h1
+{
+    text-align: center;
+    color: green;
+}
+p
+{
+    text-align: justify;
+}
+a:link {color: #000080;}
+a:active {color: #000080;}
+a:visited {color: #000080;}
+a:hover {color: #000080;}
