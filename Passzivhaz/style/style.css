@@ -1,0 +1,52 @@
+body
+{
+    background-image: url("../images/bg.png");
+    color: black;
+}
+
+table
+{
+    background-color: white;
+    font-family: Verdana;
+    width: 850pt;
+    border: solid black 3pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    text-align: left;
+}
+
+h1, h2{ color: #347235; }
+
+h2{ font-size: 17px; }
+
+p{ text-align: justify; }
+
+a:link { color: cyan; }
+a:active { color: cyan; }
+a:visited { color: cyan; }
+a:hover { color: cyan; }
+
+hr
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.kiemeles
+{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.kep
+{
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
+    margin-left: 5pt;
+    float: right;
+}
