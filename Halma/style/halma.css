@@ -18,9 +18,14 @@ table{
 
 img{
     border: solid 1pt black;
+    margin: auto;
 }
 
 td{
     border: solid 1pt black;
     padding: 10px;
+}
+
+.center-align{
+    text-align: center;
 }
