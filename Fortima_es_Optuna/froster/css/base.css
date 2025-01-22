@@ -124,7 +124,7 @@
 
 	}
 	div.lap span {
-	    color: green;
+	    color: rgb(255, 100, 100);
 	    font-family: Arial;
 	}
 	div.lap h1 {
@@ -176,7 +176,7 @@
 	div.kepek {
 	    float: right;
 	    padding: 6px 4px;
-	    margin 0px;
+	    margin: 0px;
 	    background-color: rgb(240,240,240);
 	    border-width: 0px 1px;
 	    border-style: solid;
